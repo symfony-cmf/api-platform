@@ -1,0 +1,3 @@
+tests/Fixtures/App/var/
+composer.lock
+vendor
